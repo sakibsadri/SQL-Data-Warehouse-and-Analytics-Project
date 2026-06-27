@@ -5,6 +5,7 @@
 ### Design • Build • Transform • Analyze • Deliver
 
 A production-inspired **Data Warehouse & Analytics Project** built using **Microsoft SQL Server**, implementing the **Medallion Architecture (Bronze → Silver → Gold)** to transform raw ERP and CRM data into a scalable, analytics-ready warehouse for business intelligence and decision-making.
+<img width="634" height="375" alt="image" src="https://github.com/user-attachments/assets/0549c29a-f755-4dad-9570-34b6321677fd" />
 
 ---
 
